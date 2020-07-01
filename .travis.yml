@@ -7,9 +7,9 @@ script:
   - yarn lint
 deploy:
   provider: heroku
-  api_key: "c62557e1-1cd0-4924-84c3-084fe5a04f16"
-  app: glbclub
+  api_key: $HEROKU_API_KEY
+  app: duings
   on:
     branch: master
     all_branches: false
-    repo: glbclub/glb-api
+    repo: joaaomanooel/duings-api
