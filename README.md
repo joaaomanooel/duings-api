@@ -1,5 +1,9 @@
 <h1 align="center">Welcome to Duings API 👋</h1>
+
 <p>
+  <a href="https://travis-ci.com/joaaomanooel/duings-api">
+    <img alt="Build Status" src="https://travis-ci.com/joaaomanooel/duings-api.svg?  branch=master" />
+  </a>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="LICENSE.md" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
@@ -26,7 +30,7 @@ yarn run start
 
 👤 **João Manoel Neto**
 
-* Github: [@joaaomanooel](https://github.com/joaaomanooel)
+- Github: [@joaaomanooel](https://github.com/joaaomanooel)
 
 ## 🤝 Contributing
 
@@ -41,5 +45,6 @@ Give a ⭐️ if this project helped you!
 Copyright © 2020 [João Manoel Neto](https://github.com/joaaomanooel).<br />
 This project is [MIT](LICENSE.md) licensed.
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
