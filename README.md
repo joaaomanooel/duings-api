@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://travis-ci.com/joaaomanooel/duings-api">
-    <img alt="Build Status" src="https://travis-ci.com/joaaomanooel/duings-api.svg?  branch=master" />
+    <img alt="Build Status" src="https://travis-ci.com/joaaomanooel/duings-api.svg?branch=master" />
   </a>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
   <a href="LICENSE.md" target="_blank">
