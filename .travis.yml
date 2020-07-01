@@ -1,0 +1,15 @@
+language: node_js
+node_js: node
+cache:
+  directories:
+    "node_modules"
+script:
+  - yarn lint
+deploy:
+  provider: heroku
+  api_key: "c62557e1-1cd0-4924-84c3-084fe5a04f16"
+  app: glbclub
+  on:
+    branch: master
+    all_branches: false
+    repo: glbclub/glb-api
